@@ -1,0 +1,22 @@
+body{
+    font-size: 40px;
+}
+.iyke-one{
+    font-size: 35px;
+    background-color: green;
+}
+
+.iyke-two{
+    font-size: 70px;
+    background-color: red;
+}
+
+.iyke-three{
+    font-size: 45px;
+    background-color: pink;
+}
+
+.joseph li{
+    font-size: 60px;
+    color: brown;
+}
