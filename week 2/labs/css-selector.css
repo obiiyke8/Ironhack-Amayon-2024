@@ -14,8 +14,12 @@ h1{
     text-decoration: underline;
  }
 
- #block-02 h2{
+ .block-02 h2{
    color: blueviolet;
    font-size: 40px; 
+   background-color: blue;
    
+ }
+ .pseudo-class{
+  background-color: red;
  }

@@ -1,0 +1,36 @@
+body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+
+button{
+    font-size: 40px;
+}
+a{
+    color: darkgreen;
+    text-decoration: none;
+}
+
+a:hover{
+    color: darkmagenta;
+}
+button
+.button {
+    background-color: cornflowerblue;
+    color: azure;
+    border: none;
+    font-size: 16px;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: cursor;
+}
+
+.button{
+    width: 50px;
+    text-align: center;
+
+
+}
+ul{
+    list-style: none;
+}

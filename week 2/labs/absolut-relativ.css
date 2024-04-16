@@ -1,0 +1,30 @@
+body{
+    font-size: 20px;
+}
+
+
+.pixels{
+font-size: 30px;
+
+}
+
+.points{
+
+    font-size: 24pt;
+}
+
+.cntimenters{
+
+    font-size: 1.5cm;
+}
+
+
+.relativ-to-font-size{
+    font: size 5em;;
+}
+
+.relativ-to-root-element{
+
+    font-size: 1rem;
+}
+
