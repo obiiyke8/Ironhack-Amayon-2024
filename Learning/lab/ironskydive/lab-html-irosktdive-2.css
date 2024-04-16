@@ -138,6 +138,45 @@ text-align: center;
     width: 200px;
   }
 
+  .service-box h3{
+    font-size: 1.7em;
+    font-weight: 300;
+  }
+
+  .service-box p {
+font-size: 1.7em;
+  }
+
+  .container{
+    background-color: darkslategray;
+    color: white;
+    
+  }
+
+  .container p{
+    font-size: 2.0em;
+    text-align: center;
+    font-weight: lighter;
+  }
+
+
+  .container li{
+    font-size: 2em;
+  }
+  .dark-background{
+background-color: darkslategrey;
+color: white;
+text-align: center;
+font-size: 1.9em;
+}
+
+.dark-background a {
+  color: blue;
+text-decoration: none;
+font-size: 2em;
+}
+  
+
 
 
 
